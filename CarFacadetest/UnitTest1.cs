@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace CarFacadeTest
+namespace CarFacadetest
 {
     [TestClass]
     public class UnitTest1
